@@ -1,5 +1,8 @@
 <template>
   <div id="app">
+    <b-alert show dismissible>
+      Dismissible Alert! Click the close button over there <b>&rArr;</b>
+    </b-alert>
     <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
