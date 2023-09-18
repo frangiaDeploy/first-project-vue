@@ -19,3 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Probando el framework vue.js
+## Subiendo a latincloud para probar la subida al host
